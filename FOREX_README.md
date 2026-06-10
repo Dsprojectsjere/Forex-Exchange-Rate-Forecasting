@@ -1,6 +1,6 @@
 # 💱 Forex Exchange Rate Forecasting
 
-**Jeremiah Kabeya | BSc Data Science, University of Hertfordshire** 🎓
+**Jeremiah Kabeya** 
 
 ---
 

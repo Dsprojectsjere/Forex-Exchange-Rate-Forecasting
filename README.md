@@ -1,7 +1,7 @@
 [FOREX_README.md](https://github.com/user-attachments/files/28776014/FOREX_README.md)
 # 💱 Forex Exchange Rate Forecasting
 
-**Jeremiah Kabeya Data Scient** 🎓
+**Jeremiah Kabeya ** 
 
 ---
 
